@@ -123,7 +123,7 @@ Pseudocode:
  +----+-------------+
       | Yes          No
       |   +---------+
-      V   V
+      V             V
  +--------+   +--------+
  | Print a |   | Print b |
  +--------+   +--------+
@@ -161,7 +161,7 @@ Pseudocode:
  +----+--------------+
       | Yes           No
       |   +--------+
-      V   V
+      V            V
  +---------+   +---------+
  | Print Even |   | Print Odd |
  +---------+   +---------+
@@ -250,7 +250,7 @@ Pseudocode:
  +----+-------------------------+
       | Yes            No
       |   +----------------+
-      V   V
+      V                    V
  +------------------+   +--------------+
  | Print Not Prime  |   | Increment i  |
  | Exit             |   +--------------+
@@ -442,5 +442,4 @@ Visual Studio Code: A versatile code editor suitable for various programming lan
 ## Set Up C++:
 Windows: Install MinGW or Visual Studio Community.
 Mac: Install Xcode or use Homebrew to set up GCC.
-# Day 1 Notes
-** Prepared by Munawar Johar ** 
+
